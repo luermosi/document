@@ -1,6 +1,10 @@
 # 下载
+
 ## PDF
-[IFU_3M™ Steri‑Strip™_zh_自行翻译_设更改口令](https://luermosi.github.io/document/file/IFU_3M%E2%84%A2%20Steri%E2%80%91Strip%E2%84%A2_zh_%E8%87%AA%E8%A1%8C%E7%BF%BB%E8%AF%91_%E8%AE%BE%E6%9B%B4%E6%94%B9%E5%8F%A3%E4%BB%A4.pdf)
+
+[IFU_3M™ Steri‑Strip™_zh_自行翻译_设更改口令](https://luermosi.github.io/document/file/IFU_3M%E2%84%A2%20Steri%E2%80%91Strip%E2%84%A2_zh_%E8%87%AA%E8%A1%8C%E7%BF%BB%E8%AF%91_%E8%AE%BE%E6%9B%B4%E6%94%B9%E5%8F%A3%E4%BB%A4.pdf "下载链接")
+
+---
 
 ---
 
