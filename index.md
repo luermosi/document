@@ -1,4 +1,7 @@
 # 下载
 ## PDF
-[IFU_3M™ Steri‑Strip™_zh_自行翻译_设更改口令](https://luermosi.github.io/document/file/IFU_3M%E2%84%A2%20Steri%E2%80%91Strip%E2%84%A2_zh_%E8%87%AA%E8%A1%8C%E7%BF%BB%E8%AF%91_%E8%AE%BE%E6%9B%B4%E6%94%B9%E5%8F%A3%E4%BB%A4.pdf "IFU_3M™ Steri‑Strip™_zh_自行翻译_设更改口令.pdf")
+[IFU_3M™ Steri‑Strip™_zh_自行翻译_设更改口令](https://luermosi.github.io/document/file/IFU_3M%E2%84%A2%20Steri%E2%80%91Strip%E2%84%A2_zh_%E8%87%AA%E8%A1%8C%E7%BF%BB%E8%AF%91_%E8%AE%BE%E6%9B%B4%E6%94%B9%E5%8F%A3%E4%BB%A4.pdf)
+
+---
+
 ##### 这个仓库中存储的所有文件来自于不同作者，它们的著作权及其他知识产权归原作者所有。<br>不得将其中的任何文件用于商业用途，除非得到著作权人的允许或其他法律法规所规定的情况。<br>根据中华人民共和国《著作权法》第二十四条规定，这些文件都指明了作者姓名或者名称、作品名称。<br>如果因为我把文件上传到这个仓库而影响该作品的正常使用，或者不合理地损害著作权人的合法权益，请联系我，我会在第一时间删除。<br>根据中华人民共和国《著作权法》第二十四条第一款和第六款规定，如果这些文件仅用于个人学习及科学研究，使用作品时可以不经著作权人许可，不向其支付报酬。<br>本网站使用Github Pages搭建
